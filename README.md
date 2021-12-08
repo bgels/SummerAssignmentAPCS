@@ -4,7 +4,7 @@ In order to give all students the opprotunity to succeed by starting at the same
 # Setup your Computer
 * Any Windows10/Mac/Linux computer will be sufficient to do all of the work in this course. A chromebook is not sufficient.
 * The Java Development Kit (JDK) is the software required for you to run and test java programs.
-* Go to https://adoptopenjdk.net/ then download and install **OpenJDK 11 (LTS)** and select **HotSpot** as the JVM.
+* Go to https://adoptium.net/ then download and install **Temurin 17 (LTS)** and click latest rlease to download the correct version.
 * If for some reason you want to use another version of java for other purposes, you can, but it will potentially cause problems. If you do not use the same version as everyone else for this class any problems that occur will be entirely your fault.
 
 # Java resources
