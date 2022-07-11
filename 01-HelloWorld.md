@@ -2,11 +2,12 @@
 
 # First Program
 
-**PRO TIP**: Do not copy and paste code from either online sources or earlier assignments. Type it in. This will help you remember the Java constructs and will make later sections of the program easier.
+**PRO TIP**: Do not copy and paste code from online sources or earlier assignments. Even if you are copying an example to test: typing valid java code will help you remember the java constructs and will make later sections of the program easier.
 
-**Edit:** Fixed filename 
 
-Create a file named **Hello.java** and save it in your APCS folder. Note that the **H** is upper case. In that file, write and this program:
+Create a file named **Hello.java** and save it in your APCS folder(remember the one you created in the BeforeYouCode section). Note that the **H** is upper case.
+Please pay attention to the spelling including capitalization. Note that java is case-sensitive, so upper and lower case letters matter. If you spell a word with the wrong capitalization it will create a variety of problems for you. 
+In that file, write and this program:
 
 ```java
 public class Hello{
@@ -18,7 +19,7 @@ public class Hello{
 
 
 # Compile and run
-Open your APCS folder with a terminal (remember the BeforeYouCode section), you will need to use it here.
+Open your APCS folder with a terminal, you will need to use it here.
 
 Now, from the terminal run the **ls** command (Linux, Mac, GitBash, Powershell) or **dir**
 command (windows command prompt) after typing the command press enter. Note that your directory should have one file
@@ -26,13 +27,15 @@ named **Hello.java**. If you do not see the file, then you didn't open the same 
 
 To compile **Hello.java** into Java Byte Code that can be run by the Java
 Virtual Machine, type **javac Hello.java** and press enter. If the prompt comes back
-with no errors, everything worked. If you see any errors, read them
-carefully and try to fix your program. Repeat until your program
-compiles.
+with no errors, everything worked. If you see any errors, they include a line number. 
+Resolve the errors by looking at the example carefully and seeing if you can fix your program. 
+Note that errors sometimes show a line number after your mistake.
 
-Look at the files in the directory again (ls, dir) and you'll see an
+After you compile with no errors, look at the files in the directory again (ls, dir) and you'll see an
 additional file named **Hello.class** - this is the compiled Java Byte
-Code that can be run. Now run your program by typing **java Hello** and pressing enter.
+Code that can be run. 
+
+Now run your program by typing **java Hello** and pressing enter.
 
 Here is a sample of what you would see if you did everything correctly:
 ```
