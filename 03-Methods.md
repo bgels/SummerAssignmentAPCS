@@ -164,7 +164,7 @@ Finally, a method can call another method:
 ```
 
 
-# Practice
+# Required Work: 
 Now you can start to solve codingbat questions. Please create an account using your stuy.edu email address. Problems you complete WHILE LOGGED IN will be saved to your account. 
 
 If you forget to log in, you have to do them again. 
