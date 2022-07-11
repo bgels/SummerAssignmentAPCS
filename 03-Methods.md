@@ -1,6 +1,8 @@
 
 # Methods
 
+You will need to write methods to solve codingbat problems that are required for this summer homework. This required problemset is linked at the bottom of each page that shows you a new tool to practice. Please be sure you create your codingbat account and log in to do these problems.
+
 # Void methods
 
 Just to see how methods (functions) are written in java, we will start with the ones that do not return a value. These are called **void methods**.
