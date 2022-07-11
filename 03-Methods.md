@@ -167,6 +167,6 @@ Now you can start to solve codingbat questions. Please create an account using y
 
 If you forget to log in, you have to do them again. 
 
-Start with **Functions with no loops/conditionals**.
+Start with **Functions with no loops/conditionals (average3, force, roundToPlace, sumOfSines)**.
 
 [Summer Problem Set codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
