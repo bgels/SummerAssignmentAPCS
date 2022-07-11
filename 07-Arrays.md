@@ -15,6 +15,7 @@ create it.
 6.2.1-6.2.5
 
 # Required Work:
-Now Try: **Loops with Arrays: largestValue indexOfLargestValue countEvens sum28  scoresIncreasing **
+
+Now Try: **Loops with Arrays: largestValue indexOfLargestValue countEvens sum28  scoresIncreasing**
 
 [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
