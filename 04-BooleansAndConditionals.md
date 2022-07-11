@@ -16,4 +16,4 @@ Remember: If you forget to log in, you have to do them again.
 
 Now Try: **Conditionals (oddsAreNegated  noTeenSum myMin  minOfFour)**.
 
-[Summer Problem Set codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
+[codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
