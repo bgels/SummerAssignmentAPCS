@@ -11,7 +11,7 @@
 [CSAwesome 3.3 else](https://runestone.academy/ns/books/published/csawesome/Unit3-If-Statements/topic-3-3-if-else.html)
 (Whole page.)
 
-# Practice
+# Required Work
 Remember: If you forget to log in, you have to do them again. 
 
 Now Try: **Conditionals (oddsAreNegated  noTeenSum myMin  minOfFour)**.
