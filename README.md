@@ -14,16 +14,16 @@ In order to give all students the opprotunity to succeed by starting at the same
 
 1. [Hello World](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/01-HelloWorld.md)
 
-2. [Data Types](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/02-DataTypes.md)
+2. [Data Types](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/02-DataTypesAndAssignments.md)
 
-3. [Void Methods](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/03-VoidMethods.md)
+3. [Methods](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/03-Methods.md)
 
-4. [Conditionals](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/04-Conditionals.md)
+4. [Booleans and Conditionals](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/04-BooleansAndConditionals.md)
 
-5. [Value Methods](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/05-ValueMethods.md)
+5. [Loops](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/05-Loops.md)
 
-6. [Loops](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/06-Loops.md)
+6. [Arrays](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/06-Arrays.md)
 
-7. [Arrays](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/07-Arrays.md)
+7. [Strings](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/07-Strings.md)
 
-8. Some practice problems that require a variety of skills you learned. https://codingbat.com/home/konstans@stuy.edu/summerapcs
+8. You should have now completed all of the problems here: https://codingbat.com/home/konstans@stuy.edu/summerapcs
