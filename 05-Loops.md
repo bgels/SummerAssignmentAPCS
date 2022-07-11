@@ -8,8 +8,11 @@ You will eventually need to understand both for and while loops in class, but fo
 
 # Practice
 
-**[Codingbat Loops: (smallestX  sumAtoB  sumAtoBcountingByC  anyInRangeDivisibleByValue )](https://codingbat.com/home/konstans@stuy.edu/summerapcs)**
+Now Try: **Codingbat Loops: (smallestX  sumAtoB  sumAtoBcountingByC  anyInRangeDivisibleByValue )**.
+
+[codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
 
 
 # OPTIONAL READING if you want to get familiar:
+
 [CSAwesome 4.2 for loops](https://runestone.academy/ns/books/published/csawesome/Unit4-Iteration/topic-4-2-for-loops.html)
