@@ -46,16 +46,15 @@ Mode                 LastWriteTime         Length Name
 
 C:\Users\K\Documents\APCS> javac Hello.java
 
-C:\Users\K\Documents\APCS> java Hello
-Hello world!
-
 C:\Users\K\Documents\APCS> ls
     Directory: C:\Users\K\Documents\APCS
 Mode                 LastWriteTime         Length Name
 -a----         7/14/2021   2:02 PM            416 Hello.class
 -a----         7/14/2021   1:58 PM            125 Hello.java
 
-PS C:\Users\konstans\Desktop\APCS>
+C:\Users\K\Documents\APCS> java Hello
+Hello world!
+
 ```
 
 # What do errors look like?
