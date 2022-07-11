@@ -1,18 +1,11 @@
 # APCS summer assignment
 In order to give all students the opprotunity to succeed by starting at the same place this pre-coursework is designed to ensure that all students entering the course have the same prior knowledge.
 
-# Setup your Computer
-* Any Windows10/Mac/Linux computer will be sufficient to do all of the work in this course. A chromebook is not sufficient.
-* The Java Development Kit (JDK) is the software required for you to run and test java programs.
-* Go to https://adoptium.net/ then download and install **Temurin 17 (LTS)** and click latest rlease to download the correct version.
-* If for some reason you want to use another version of java for other purposes, you can, but it will potentially cause problems. If you do not use the same version as everyone else for this class any problems that occur will be entirely your fault.
-
 # Java resources
+* [CS Awesome](https://runestone.academy/ns/books/published/csawesome/index.html)
 * [Think Java Downy, Mayfield](http://greenteapress.com/thinkjava6/html/index.html)
  [Interactive Text Version](https://books.trinket.io/thinkjava/)
 * [CS - Sedgewick / Wayne](https://introcs.cs.princeton.edu/java/)
-* [Intro to CS using Java - Kjell](https://chortle.ccsu.edu/Java5/index.html#03)
-* [Intro to Java - Udacity CS046](https://horstmann.com/sjsu/cs046/)
 
 # Assignments
 **PRO TIP**: Do not copy and paste code from either online sources or earlier assignments. Type it in. This will help you remember the Java constructs and will make later sections of the program easier.
