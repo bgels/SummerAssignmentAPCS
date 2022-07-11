@@ -1,3 +1,8 @@
+# Assignment
+
+Please read and assess yourself in 1.4.1, 1.4.2, 1.4.4, 1.4.5, 1.4.7. The other sections are optional.
+[CS Awesome 1.4](https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-4-assignment.html)
+
 # Void methods
 
 # References for this assignment:
@@ -83,6 +88,7 @@ public static void m(int a, String b){
 }
 ```
 
-# Practice
 
-Complete exercise 1 from Chapter 4 of Think Java.
+
+# Practice
+Now you can start to solve the codingBat functions
