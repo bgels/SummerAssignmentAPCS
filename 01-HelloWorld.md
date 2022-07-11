@@ -4,6 +4,16 @@
 
 **PRO TIP**: Do not copy and paste code from online sources or earlier assignments. Even if you are copying an example to test: typing valid java code will help you remember the java constructs and will make later sections of the program easier.
 
+# Reading for this assignment:
+Reference | Chapter(s)   
+* [CSAwesome 1-2](https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#first-java-program)
+
+Please read the chapter and assess your ability using the interactive questions.
+
+# Do it in the CLI now.
+The internet is full of wonderous things including browser windows that can run code. This is not how you will be expected to run code in class however!
+
+To prepare yourself try to do it a different way:
 
 Create a file named **Hello.java** and save it in your APCS folder(remember the one you created in the BeforeYouCode section). Note that the **H** is upper case.
 Please pay attention to the spelling including capitalization. Note that java is case-sensitive, so upper and lower case letters matter. If you spell a word with the wrong capitalization it will create a variety of problems for you. 
@@ -16,7 +26,6 @@ public class Hello{
       }
 }
 ```
-
 
 # Compile and run
 Open your APCS folder with a terminal, you will need to use it here.
@@ -63,11 +72,4 @@ Most of the time you will not type the commands correctly and it cannot compile.
 generate another error. Finally fix and text the program again so that
 it works.
 
-# References for this assignment:
-Reference | Chapter(s)   
-* [Sedgwick / Wayne | 1.1.1, 1.1.2](https://introcs.cs.princeton.edu/java/10elements/)
-* [Kjell  | 1 through 7](https://chortle.ccsu.edu/Java5/index.html#03)
 
- Please review and consider the questions at the end of the chapters.
-
-Congratulations again, you've successfully written your first program!
