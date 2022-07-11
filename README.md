@@ -8,7 +8,7 @@ In order to give all students the opprotunity to succeed by starting at the same
 * [CS - Sedgewick / Wayne](https://introcs.cs.princeton.edu/java/)
 
 # Assignments
-**PRO TIP**: Do not copy and paste code from either online sources or earlier assignments. Type it in. This will help you remember the Java constructs and will make later sections of the program easier.
+**PRO TIP**: Do not copy and paste code from online sources or earlier assignments. Type it, and retype it. This will help you remember the Java constructs and will make later sections of the program easier.
 
 0. [Before You Code](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/00-BeforeYouCode.md)
 
