@@ -1,8 +1,13 @@
 # APCS summer assignment
-In order to give all students the opprotunity to succeed by starting at the same place this pre-coursework is designed to ensure that all students entering the course have the same prior knowledge.
+This pre-coursework is designed to ensure that all students entering the APCS course have the same prior knowledge. The goal is to give all students the opprotunity to succeed, no matter what their intro experience was like. It is NOT intended to becompleted in one sitting, or as many Stuyvesant students think is ideal, the first week of school. You should spread out the work over the course of 1-2 weeks. Complete a little every day, and you will thank yourself later. 
 
-# Java resources
+This is not to say that all students will have the same experience while completing the pre-coursework. It may be the case that you struggle with it, but it is better to struggle a little over the summer when you are not taking a full courseload. 
+
+
+# Java textbook that we suggest
 * [CS Awesome](https://runestone.academy/ns/books/published/csawesome/index.html)
+
+# Other Java resources
 * [Think Java Downy, Mayfield](http://greenteapress.com/thinkjava6/html/index.html)
  [Interactive Text Version](https://books.trinket.io/thinkjava/)
 * [CS - Sedgewick / Wayne](https://introcs.cs.princeton.edu/java/)
