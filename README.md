@@ -19,7 +19,7 @@ This is not to say that all students will have the same experience while complet
 
 1. [Hello World](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/01-HelloWorld.md)
 
-2. [Data Types](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/02-DataTypesAndAssignments.md)
+2. [Data Types and Assignment Statements](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/02-DataTypesAndAssignments.md)
 
 3. [Methods](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/03-Methods.md)
 
