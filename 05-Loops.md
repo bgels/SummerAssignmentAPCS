@@ -14,7 +14,3 @@ You will eventually need to understand both for and while loops in class, but fo
 Now Try: **Codingbat Loops: (smallestX  sumAtoB  sumAtoBcountingByC  anyInRangeDivisibleByValue )**.
 
 [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
-
-
-# OPTIONAL READING if you want to get familiar:
-
