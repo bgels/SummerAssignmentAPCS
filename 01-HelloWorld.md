@@ -4,16 +4,18 @@
 
 **PRO TIP**: Do not copy and paste code from online sources or earlier assignments. Even if you are copying an example to test: typing valid java code will help you remember the java constructs and will make later sections of the program easier.
 
-# Reading
+# Required Reading
+
 [CSAwesome 1-2](https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#first-java-program)
-1.2.1, 1.2.2, 1.2.3, 1.2.4 and all included questions.
+(1.2.1, 1.2.2, 1.2.3, 1.2.4 and all included questions)
+Important: In the required reading sections, please pay close attention to the indicated sections, as denoted on the previous line!
 
 Please read the chapter and assess your ability using the interactive questions.
 
 # Do it in the CLI now.
 The internet is full of wonderous things including browser windows that can run code. This is not how you will be expected to run code in class however!
 
-To prepare yourself try to do it a different way:
+To prepare yourself try to do it a different way: Using the command line interface.
 
 Create a file named **Hello.java** and save it in your APCS folder(remember the one you created in the BeforeYouCode section). Note that the **H** is upper case.
 Please pay attention to the spelling including capitalization. Note that java is case-sensitive, so upper and lower case letters matter. If you spell a word with the wrong capitalization it will create a variety of problems for you. 
@@ -27,7 +29,7 @@ public class Hello{
 }
 ```
 
-# Compile and run
+# Compile and run (Required to be able to do this for classwork/homework)
 Open your APCS folder with a terminal, you will need to use it here.
 
 Now, from the terminal run the **ls** command (Linux, Mac, GitBash, Powershell) or **dir**
