@@ -15,7 +15,7 @@ This is not to say that all students will have the same experience while complet
 # Assignments
 **PRO TIP**: Do not copy and paste code from online sources or earlier assignments. Even if you are copying an example to test: typing valid java code will help you remember the Java constructs and will make later sections of the program easier.
 
-0. [Before You Code](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/00-BeforeYouCode.md)
+0. [Before You Code / Setting up your computer](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/00-BeforeYouCode.md)
 
 1. [Hello World](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/01-HelloWorld.md)
 
@@ -31,6 +31,4 @@ This is not to say that all students will have the same experience while complet
 
 7. [Strings](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/07-Strings.md)
 
-8. You should have now completed all of the problems here:
- 
-https://codingbat.com/home/konstans@stuy.edu/summerapcs
+8. DONE! You should have now completed all of the problems here: [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
