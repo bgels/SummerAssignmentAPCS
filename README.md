@@ -31,5 +31,6 @@ This is not to say that all students will have the same experience while complet
 
 7. [Strings](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/07-Strings.md)
 
-8. You should have now completed all of the problems here: 
+8. You should have now completed all of the problems here:
+ 
 https://codingbat.com/home/konstans@stuy.edu/summerapcs
