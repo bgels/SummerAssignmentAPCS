@@ -6,6 +6,10 @@
 
 [CSAwesome 2.7 String Methods](https://runestone.academy/ns/books/published/csawesome/Unit2-Using-Objects/topic-2-7-string-methods.html) 
 (2.7 to 2.7.3 and 2.7.5)
+
+[CSAwesome 4.3 Loops and strings](https://runestone.academy/ns/books/published/csawesome/Unit4-Iteration/topic-4-3-strings-loops.html)
+(4.3, 4.3.1, 4.3.2, 4.3.4)
+
 # Required Work:
 
 Now Try: **Loops with Strings:** (isVowel,  countVowels,  stringDupe, isAlmostEqual)
