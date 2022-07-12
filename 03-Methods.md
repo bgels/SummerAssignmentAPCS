@@ -3,6 +3,19 @@
 
 You will need to write methods to solve problems that are required for this summer homework. This required problemset is linked at the bottom of each page that shows you a new tool to practice.
 
+Functions sometimes return values to be used by other parts of the program. Here are two examples of functions that return a value (they become the value returned):
+
+```
+int y = 10;
+double x = sqrt(y); //x becomes the result of the function sqrt`
+
+```
+double theta = 3.1415926535;
+println( sin(theta) );//print the result of the sin function.
+```
+Not all functions return values however. 
+
+
 # Void methods
 
 Just to see how methods (functions) are written in java, we will start with the ones that do not return a value. These are called **void methods**.
@@ -31,12 +44,14 @@ public static RETURNTYPE NAME(ARGUMENTS){
 
 For now we'll treat **public** and **static** as boilerplate. This is 
 code that must be there, but you don't know why right now. We'll
-explain them when we get to Objects. The name of the method can be any
-valid identifier. The method name **main** though, has a special
-meaning. It's what the Java Virtual Machine (JVM) runs automatically
-when you run your program. 
+explain them when we get to Objects. 
 
-The return type for main is **void**. That means it doesn't retur any value. 
+The name of the method can be any valid identifier. 
+
+The method name **main** though, has a special meaning. It's what the Java Virtual Machine (JVM) runs automatically when you run your program. 
+
+The return type for main is **void**. That means it doesn't return any value. 
+
 For this section we will limit ourselves to **void** methods. 
 
 The println method is a void method because it doesn't return a value, it instead outputs something to the terminal.
