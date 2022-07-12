@@ -5,14 +5,14 @@ You will need to write methods to solve problems that are required for this summ
 
 Functions sometimes return values to be used by other parts of the program. Here are two examples of functions that return a value (they become the value returned):
 
-```
-int y = 10;
-double x = sqrt(y); //x becomes the result of the function sqrt`
+```int y = 10;
+double x = sqrt(y); //x becomes the result of the function sqrt```
+In this case sqrt(y) would return the value of the square root of 10.
 
-```
-double theta = 3.1415926535;
-println( sin(theta) );//print the result of the sin function.
-```
+```double theta = 3.1415926535;
+println( sin(theta) );//print the result of the sin function.```
+In this case the print function needs a value to print, and the sin function returns the sine of pi.
+
 Not all functions return values however. 
 
 
