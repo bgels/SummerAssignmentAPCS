@@ -6,7 +6,10 @@ You will eventually need to understand both for and while loops in class, but fo
 [CSAwesome 4.1 while loops](https://runestone.academy/ns/books/published/csawesome/Unit4-Iteration/topic-4-1-while-loops.html)
 4.1.1, 4.1.2, 4.1.3
 
-# Practice
+[CSAwesome 4.2 for loops](https://runestone.academy/ns/books/published/csawesome/Unit4-Iteration/topic-4-2-for-loops.html)
+4.2.1, 4.2.2, 4.2.5, 4.2.6
+
+# Required Work:
 
 Now Try: **Codingbat Loops: (smallestX  sumAtoB  sumAtoBcountingByC  anyInRangeDivisibleByValue )**.
 
@@ -15,4 +18,3 @@ Now Try: **Codingbat Loops: (smallestX  sumAtoB  sumAtoBcountingByC  anyInRangeD
 
 # OPTIONAL READING if you want to get familiar:
 
-[CSAwesome 4.2 for loops](https://runestone.academy/ns/books/published/csawesome/Unit4-Iteration/topic-4-2-for-loops.html)
