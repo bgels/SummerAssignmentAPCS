@@ -5,13 +5,13 @@ You will need to write methods to solve problems that are required for this summ
 
 Functions sometimes return values to be used by other parts of the program. Here are two examples of functions that return a value (they become the value returned):
 
-```
+```java
 int y = 10;
 double x = sqrt(y); //x becomes the result of the function sqrt
 ```
 In this case sqrt(y) would return the value of the square root of 10.
 
-```
+```java
 double theta = 3.1415926535;
 println( sin(theta) );//print the result of the sin function.
 ```
@@ -26,7 +26,7 @@ Just to see how methods (functions) are written in java, we will start with the 
 
 Take our Hello.java:
 
-```
+```java
   public class Hello {
       public static void main(String[] args){
           System.out.println("Hello world!");
@@ -96,7 +96,7 @@ first an integer into parameter **a** and a then  string into parameter
 
 
 ```python
-def f(a,b):
+def add(a,b):
   # do stuff
   print(a+b)
 ```
@@ -104,7 +104,7 @@ def f(a,b):
 
 In Java the corresponding method would be:
 ```java
-public static void m(int a, String b){
+public static void add(int a, String b){
   // dostuff
   System.out.println(a+b);
 }
@@ -113,9 +113,16 @@ public static void m(int a, String b){
 
 # Value Methods
 
-We discussed all the components except the **RETURNTYPE**. In addition
-to having a **RETURNTYPE** of **void** we can specify any other data 
-type (int, String, double, etc.) as the **RETURNTYPE**. 
+We discussed all the components except the **RETURN TYPE**. In addition
+to having a **RETURN TYPE** of **void** we can specify any other data 
+type (int, String, double, etc.) as the **RETURN TYPE**. 
+
+A simple example would be to change the add method above to return the sum, instead of printing it:
+```java
+public static int add(int a, String b){
+  return a+b;
+}
+```
 
 In the example below, the method **returnHello**
 does not output anything. Instead it returns a String value. Note how
