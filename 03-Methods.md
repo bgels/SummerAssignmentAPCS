@@ -13,7 +13,7 @@ In this case sqrt(y) would return the value of the square root of 10.
 
 ```java
 double theta = 3.1415926535;
-println( sin(theta) );//print the result of the sin function.
+System.out.println( sin(theta) );//print the result of the sin function.
 ```
 In this case the print function needs a value to print, and the sin function returns the sine of pi.
 
