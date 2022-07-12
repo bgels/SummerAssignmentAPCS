@@ -16,6 +16,10 @@ create it.
 
 # Required Work:
 
-Now Try: **Loops with Arrays: largestValue indexOfLargestValue countEvens sum28  scoresIncreasing**
+Now Try All of the Array Problems: 
+
+**Loops with Arrays : largestValue indexOfLargestValue countEvens sum28  scoresIncreasing**
+
+**Modify an Array : fixGradesArray **
 
 [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
