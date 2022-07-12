@@ -6,11 +6,12 @@
 
 # Required Reading
 
+Please read the chapter (indicated sections) and assess your ability using the interactive questions for those sections.
+
 [CSAwesome 1-2](https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#first-java-program)
 (1.2.1, 1.2.2, 1.2.3, 1.2.4 and all included questions)
-Important: In the required reading sections, please pay close attention to the indicated sections, as denoted on the previous line!
 
-Please read the chapter and assess your ability using the interactive questions.
+
 
 # Do it in the CLI now.
 The internet is full of wonderous things including browser windows that can run code. This is not how you will be expected to run code in class however!
