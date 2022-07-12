@@ -1,7 +1,7 @@
 
 # Methods
 
-You will need to write methods to solve codingbat problems that are required for this summer homework. This required problemset is linked at the bottom of each page that shows you a new tool to practice. Please be sure you create your codingbat account and log in to do these problems.
+You will need to write methods to solve problems that are required for this summer homework. This required problemset is linked at the bottom of each page that shows you a new tool to practice.
 
 # Void methods
 
@@ -165,9 +165,12 @@ Finally, a method can call another method:
 
 
 # Required Work: 
-Now you can start to solve codingbat questions. Please create an account using your stuy.edu email address. Problems you complete WHILE LOGGED IN will be saved to your account. 
+Now you can start to solve codingbat questions that your teacher will verify you completed.
 
-If you forget to log in, you have to do them again. 
+* Go to [codingbat.com](https://codingbat.com)
+* Please create an account using your stuy.edu email address. Problems you complete WHILE LOGGED IN will be saved to your account. 
+* If you forget to log in, you have to do them again. 
+* Important: Only submit work that you write. 
 
 Start with **Functions with no loops/conditionals (average3, force, roundToPlace, sumOfSines)**.
 
