@@ -11,7 +11,7 @@ create it.
 [CSAwesome Array Creation and access](https://runestone.academy/ns/books/published/csawesome/Unit6-Arrays/topic-6-1-array-basics.html)
 6.1.1-6.1.5
 
-[CSAwesome Looping over an array](https://runestone.academy/ns/books/published/csawesome/Unit6-Arrays/topic-6-1-array-basics.html)
+[CSAwesome Looping over an array](https://runestone.academy/ns/books/published/csawesome/Unit6-Arrays/topic-6-2-traversing-arrays.html)
 6.2.1-6.2.5
 
 # Required Work:
