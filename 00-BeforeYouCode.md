@@ -1,4 +1,5 @@
 # Before you start
+* Make sure you started by reading the  [README](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/README.md)
 * Any Windows10+/Mac/Linux computer will be sufficient to do all of the work in this course. A chromebook is not sufficient.
 
 # Show all file extensions
@@ -18,8 +19,8 @@ Hello.txt just looks like Hello and the icon is a text file.
 
 # Text Editor
 * If you are going to write your first Java program you will need a plain text editor. 
-* I will suggest using [Atom](https://atom.io) but any PLAIN TEXT editor will work.
-* Never under any circumstances use a word processor to write code! 
+* Any PLAIN TEXT editor will work,  Windows users can use [Notepad++](https://notepad-plus-plus.org/).
+
 
 # No IDE
 * I strongly advise you to avoid any large IDE's for this class. Vscode, Eclipse, IntelliJ, and many other programs have more advanced features but are more than you need. Also, they can cause problems if you don't know what you are doing (and even if you do). Students who use these tools often do so to find an easy way to get to a short term goal, but miss out on understanding fundamental concepts as a result. 
@@ -28,7 +29,6 @@ Hello.txt just looks like Hello and the icon is a text file.
 
 * Now you will be using a terminal, this is a command line interface (CLI) to your computer.
 * In Windows the terminal is called "command prompt", on linux and Mac it is just Terminal. Learning about your terminal is beyond the scope of the preliminary coursework, but it is enough to know that your terminal needs to know which directory your files are in before it can use those files. We will use a shortcut for now by opening the terminal in the correct directory automatically.
-
+* Directory - a listing of files and other directories. Your operating system probably makes them look like "folders", and you may hear them refered to as such. 
 * [How to open a terminal in a particular directory](https://www.groovypost.com/howto/open-command-window-terminal-window-specific-folder-windows-mac-linux/) For windows, just use the PowerShell option which is in your menu by default.
-
-* It is important to know where your files live. You will sometimes have multiple copies of a file or different files with the same name, so searching/finding is not a good option. Make a folder for your APCS work wherever you normally keep your school documents/files. You can make sub-folders for specific assignments/topics etc. When you need the terminal, make sure to open the correct folder with the terminal.
+* It is important to know where your files are stored (which directory are they in) . You will sometimes have multiple copies of a file or different files with the same name, so searching/finding is not a good option. Make a folder for your APCS work wherever you normally keep your school documents/files. You can make subdirectories for specific assignments/topics etc. When you need the terminal, make sure to open the correct folder with the terminal. 
