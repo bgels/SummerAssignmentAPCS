@@ -19,11 +19,9 @@ Hello.txt just looks like Hello and the icon is a text file.
 
 # Text Editor
 * If you are going to write your first Java program you will need a plain text editor. 
-* Any PLAIN TEXT editor will work,  Windows users can use [Notepad++](https://notepad-plus-plus.org/).
+* Any PLAIN TEXT editor will work, but some are better than others. Windows users should NOT use "notepad" as it is the most barebones option available. Instead they can opt to download [Notepad++](https://notepad-plus-plus.org/). 
+* We will also have [VSCodium](https://vscodium.com/) installed in the labs. Note: VSCodium is identical to VS Code with the single biggest difference: VSCodium doesn't track your usage data. You can (learn more about it here)(https://itsfoss.com/vscodium/)
 
-
-# No IDE
-* I strongly advise you to avoid any large IDE's for this class. Vscode, Eclipse, IntelliJ, and many other programs have more advanced features but are more than you need. Also, they can cause problems if you don't know what you are doing (and even if you do). Students who use these tools often do so to find an easy way to get to a short term goal, but miss out on understanding fundamental concepts as a result. 
 
 # Command Line Interface
 
