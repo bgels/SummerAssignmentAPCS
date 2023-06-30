@@ -2,14 +2,17 @@
 
 # First Program
 
-**PRO TIP**: Do not copy and paste code from online sources or earlier assignments. Even if you are copying an example to test: typing valid java code will help you remember the java constructs and will make later sections of the program easier.
+**PRO TIP**: Do not copy and paste code from online sources or earlier assignments. 
+
+Even if you are copying an example to test: typing valid java code will help you remember the java constructs and will make later sections of the program easier.
 
 # Required Reading
 
 Please read the chapter (indicated sections) and assess your ability using the interactive questions for those sections.
 
 [CSAwesome 1-2](https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#first-java-program)
-(1.2.1, 1.2.2, 1.2.3, 1.2.4 and all included questions)
+(whole page and all included questions)
+
 
 
 

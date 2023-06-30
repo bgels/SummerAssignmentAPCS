@@ -14,7 +14,7 @@ Please read the chapters (indicated sections) and assess your ability using the 
 While reading, take notes. It is important to keep track of any vocabulary that you didn't already know, so that you can remember to get clarifiaction in class.
 
 [CSAwesome 1.3 Variables and Data Types](https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-3-variables.html)
-(whole page)
+(whole page and all included questions)
 
 [CS Awesome 1.4 assignment statements](https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-4-assignment.html)
-(1.4.1, 1.4.2, 1.4.4, 1.4.5, 1.4.7)
+(whole page and all included questions)

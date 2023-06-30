@@ -1,4 +1,6 @@
 # APCS summer assignment
+AP Computer Science is an elective that is far more rigorous than intro. It is a lot of work, and can be very difficult at times. 
+
 This pre-coursework is designed to ensure that all students entering the APCS course have the same prior knowledge. The goal is to give all students the opportunity to succeed, no matter what their intro experience was like.
 
 Remember that you should try to learn this material, not "get it done so you don't lose points". This assignment is NOT intended to becompleted in one sitting at the last minute (as many Stuyvesant students think is ideal). You should spread out the work over the course of 1-2 weeks. Complete a little every day, and you will thank yourself later. 
@@ -14,6 +16,10 @@ This is not to say that all students will have the same experience while complet
 * [CS - Sedgewick / Wayne](https://introcs.cs.princeton.edu/java/)
 
 # Assignments
+To the many stuy students that only do things that are checked by the teacher: Many of the questions are for self assessment. If you choose to skip them your teacher will probably not check. Instead:
+* your teacher will quiz you and see if you learned the material. 
+* you will be competing with students that learned the material.
+
 **PRO TIP**: Do not copy and paste code from online sources or earlier assignments. Even if you are copying an example to test: typing valid java code will help you remember the Java constructs and will make later sections of the program easier.
 
 0. [Before You Code / Setting up your computer](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/00-BeforeYouCode.md)
@@ -30,6 +36,4 @@ This is not to say that all students will have the same experience while complet
 
 6. [Arrays](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/06-Arrays.md)
 
-7. [Strings](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/07-Strings.md)
-
-8. DONE! You should have now completed all of the problems here: [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
+7. DONE! You should have now completed all of the problems here (except the optional Strings section): [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
