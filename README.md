@@ -22,18 +22,18 @@ To the many stuy students that only do things that are checked by the teacher: M
 
 **PRO TIP**: Do not copy and paste code from online sources or earlier assignments. Even if you are copying an example to test: typing valid java code will help you remember the Java constructs and will make later sections of the program easier.
 
-0. [Before You Code / Setting up your computer](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/00-BeforeYouCode.md)
+0. [Before You Code / Setting up your computer](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/00-BeforeYouCode.md)
 
-1. [Hello World](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/01-HelloWorld.md)
+1. [Hello World](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/01-HelloWorld.md)
 
-2. [Data Types and Assignment Statements](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/02-DataTypesAndAssignments.md)
+2. [Data Types and Assignment Statements](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/02-DataTypesAndAssignments.md)
 
-3. [Methods](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/03-Methods.md)
+3. [Methods](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/03-Methods.md)
 
-4. [Booleans and Conditionals](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/04-BooleansAndConditionals.md)
+4. [Booleans and Conditionals](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/04-BooleansAndConditionals.md)
 
-5. [Loops](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/05-Loops.md)
+5. [Loops](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/05-Loops.md)
 
-6. [Arrays](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/06-Arrays.md)
+6. [Arrays](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/06-Arrays.md)
 
 7. DONE! You should have now completed all of the problems here (except the optional Strings section): [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
