@@ -15,6 +15,7 @@ This is not to say that all students will have the same experience while complet
  [Interactive Text Version](https://books.trinket.io/thinkjava/)
 * [CS - Sedgewick / Wayne](https://introcs.cs.princeton.edu/java/)
 
+
 # Assignments
 To the many stuy students that only do things that are checked by the teacher: Many of the questions are for self assessment. If you choose to skip them your teacher will probably not check. Instead:
 * your teacher will quiz you and see if you learned the material. 
