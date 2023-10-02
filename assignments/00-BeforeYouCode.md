@@ -21,10 +21,10 @@ Hello.txt just looks like Hello and the icon is a text file.
 * If you are going to write your first Java program you will need a plain text editor. 
 * Any PLAIN TEXT editor will work, but some are better than others. Windows users should NOT use "notepad" as it is the most barebones option available. Instead they can opt to download [Notepad++](https://notepad-plus-plus.org/). 
 * We will also have [VSCodium](https://vscodium.com/) installed in the labs. Note: VSCodium is identical to VS Code with the single biggest difference: VSCodium doesn't track your usage data. You can [learn more about it here](https://itsfoss.com/vscodium/)
-* You can [download vscodium from here](https://github.com/VSCodium/vscodium/releases) by choosing the correct download item (the version number will change but the format)versions.
-  * For windows you want the x64 msi file such as "VSCodium-x64-1.82.2.23257.msi"
-  * For mac you want the x64 dmg file (OR arm64 if you have an M1 chip) such as "VSCodium.x64.1.82.2.23257.dmg" OR "VSCodium.arm64.1.82.2.23257.dmg"
-  * For linux users, you probably need the x64 tar.gz such as "VSCodium-linux-x64-1.82.2.23257.tar.gz"
+* You can [download vscodium from here](https://github.com/VSCodium/vscodium/releases) by choosing the correct download item. Note that the exact version number (1.x.y.z) is 1.8ish right now but will change over time. The format around the version should be the same.
+  * For windows you want the x64 msi file such as "VSCodium-x64-1.x.y.z.msi"  
+  * For mac you want the x64 dmg file (OR arm64 if you have an M1 chip) such as "VSCodium.x64.1.x.y.z.dmg" OR "VSCodium.arm64.1.x.y.z.dmg"
+  * For linux users, you probably need the x64 tar.gz such as "VSCodium-linux-x64-1.x.y.z.tar.gz"
 
 
 # Command Line Interface
