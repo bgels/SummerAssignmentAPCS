@@ -15,10 +15,14 @@ Your goal is to write a complete java program with a main that will test a coupl
 ```
 //return true if and only if x is prime,false otherwise.
 public static boolean isPrime(int x){
+  //just check divisibility for all values from `2` through `x - 1` inclusive.
+  //(This is not a good algorithm, just use it)
 }
 
-//return the nth prime, e.g. nthPrime(0) returns 2, nthPrime(1) returns 3, etc.
+//return the nth prime,
+//e.g. nthPrime(0) returns 2, nthPrime(1) returns 3, etc.
 public static int nthPrime(int n){
-  //use your isPrime to help find the nth prime.
+  //Loop through values and check if they are prime until you find n of them
+  //use your isPrime function.
 } 
 ```
