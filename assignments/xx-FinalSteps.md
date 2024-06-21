@@ -6,6 +6,7 @@ Codingbat does not teach you to write a complete program, instead it helps you a
 
 Your goal is to write a complete java program with a main that will test a couple of other functions.
 
+
 * create a class in a file named `Tester.java` and include the main method.
 * create two functions: `isPrime(x)` and `nthPrime(n)` The function headers are included below.
 * In your main: create two arrays, one with input values for `nthPrime()`, and the other with the expected values. e.g. n: `[0,1,2]` and primes: `[2,3,5]`
@@ -26,3 +27,6 @@ public static int nthPrime(int n){
   //use your isPrime function.
 } 
 ```
+# Submission
+
+Please have a digital copy accessible (in your email or flash drive) and have it handy when your teacher asks for it.
