@@ -19,9 +19,9 @@ This is not to say that all students will have the same experience while complet
 
 
 # Assignments
-To the many stuy students that only do things that are checked by the teacher: Many of the questions are for self assessment. If you choose to skip them your teacher will probably not check. Instead:
-* your teacher will quiz you and see if you learned the material. 
-* you will be competing with students that learned the material.
+To the many stuy students that only do things that are checked by the teacher: **Many of the questions are for self assessment**. If you choose to skip them your teacher will probably not check. Instead:
+* **your teacher will quiz you and see if you learned the material**. 
+* **you will be competing with students that learned the material**.
 
 **PRO TIP**: Do not copy and paste code from online sources or earlier assignments. Even if you are copying an example to test: typing valid java code will help you remember the Java constructs and will make later sections of the program easier.
 
