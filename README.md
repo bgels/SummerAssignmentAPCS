@@ -1,5 +1,5 @@
 # APCS summer assignment
-AP Computer Science is an elective that is far more rigorous than intro. It is a lot of work, and can be very difficult at times. 
+AP Computer Science is an elective that is far more rigorous than the required Foundations course. It requires a lot of work, and can be very difficult at times. 
 
 This pre-coursework is designed to ensure that all students entering the APCS course have the same prior knowledge. The goal is to give all students the opportunity to succeed, no matter what their intro experience was like.
 
