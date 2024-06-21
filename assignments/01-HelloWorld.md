@@ -95,7 +95,7 @@ Also note the ^ symbol points to where the error is located on the line.
         System.out.println("Hello world);
                            ^
 ```
-This can be misleading at times because the error is not that the Open quote is the problem, it is that that string was never closed.:
+This can be misleading at times because the error is not that the Open quote is the problem, it is that that string was never closed. You sometimes need to look at the lines surrounding the error, or even in other parts of the code to realize why the error is happening. e.g. When you spell the function call differently than how you declared the function, you will need to look at the declaration and the function call to compare spelling.
 
 
 
