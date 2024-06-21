@@ -74,8 +74,28 @@ Hello world!
 
 # What do errors look like?
 
-Most of the time you will not type the commands correctly and it cannot compile. See what this looks like by putting an error in your program - remove a quote or a bracket and recompile using **javac Hello.java** - read the error. Fix it and try to
-generate another error. Finally fix and text the program again so that
-it works.
+Compile-time errors occur when there are syntactical issues present in the source code (code written by humans), for example, missing semicolons or parentheses, misspelled keywords or usage of variables that do not exist. These syntax errors are detected by the Java compiler at compile-time and an error message (or possibly multiple messages) is displayed on the screen.
+
+Often you will not type the commands correctly and it cannot compile. See what this looks like by putting an error in your program - remove a quote or a bracket and recompile using **javac Hello.java** - read the error. Fix it and then try to generate a different error. Finally fix and text the program again so that it works.
+
+When you read the error messages, they tell you which file the error occured and what line number.
+
+```
+$ javac HelloWorld.java
+HelloWorld.java:6: error: unclosed string literal
+        System.out.println("Hello world);
+                           ^
+1 error
+```
+
+Note the text "HelloWorld.java:6: error: unclosed string literal" tells you the file name, the line number (6) and what the error is. 
+
+Also note the ^ symbol points to where the error is located on the line. 
+```
+        System.out.println("Hello world);
+                           ^
+```
+This can be misleading at times because the error is not that the Open quote is the problem, it is that that string was never closed.:
+
 
 
