@@ -1,6 +1,6 @@
 # APCS summer assignment
 
-It is important in computer science to follow instructions carefully. **Please read all of the words**, do not skim them like a humanities assignment. 
+It is important in computer science to follow instructions carefully. **Please read all of the words**, do not skim them like a novel for your humanities classes. 
 
 AP Computer Science is an elective that is far more rigorous than the required Foundations course. It requires a lot more work, and can be very difficult at times. 
 
