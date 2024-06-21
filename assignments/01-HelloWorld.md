@@ -97,5 +97,8 @@ Also note the ^ symbol points to where the error is located on the line.
 ```
 This can be misleading at times because the error is not that the Open quote is the problem, it is that that string was never closed. You sometimes need to look at the lines surrounding the error, or even in other parts of the code to realize why the error is happening. e.g. When you spell the function call differently than how you declared the function, you will need to look at the declaration and the function call to compare spelling.
 
+# Now for something completely different
+
+In class you will often need to write programs in a file then compile and run them. Unfortunately, you will now be directed to practice your syntax and algorithm skills on a website that does not require that you compile and run your code! Do not forget that any of the functions you write on codingbat.com can be used in a real java program with a main. 
 
 
