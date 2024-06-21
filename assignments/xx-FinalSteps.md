@@ -7,8 +7,8 @@ Codingbat does not teach you to write a complete program, instead it helps you a
 Your goal is to write a complete java program with a main that will test a couple of other functions.
 
 * create a class in a file named `Tester.java` and include the main method.
-* create two functions: `isPrime(x)` and `nthPrime(n)`
-* In your main: create two arrays, one with input values for `nthPrime()`, and the other with the expected values.
+* create two functions: `isPrime(x)` and `nthPrime(n)` The function headers are included below.
+* In your main: create two arrays, one with input values for `nthPrime()`, and the other with the expected values. e.g. n: `[0,1,2]` and primes: `[2,3,5]`
 * DO NOT use your function to generate the expected values, you need to know them ahead of time. Try googling prime values for ones that are larger (100th, 200th, etc) 
 * Run your function on the input values, and see if the match the expected values, print either `"pass"` if the values match, or when they don't you should print: `"fail expected x, but value returned was y"` (replace x and y accordingly) 
 
