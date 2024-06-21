@@ -1,5 +1,5 @@
 # APCS summer assignment
-AP Computer Science is an elective that is far more rigorous than the required Foundations course. It requires a lot of work, and can be very difficult at times. 
+AP Computer Science is an elective that is far more rigorous than the required Foundations course. It requires a lot more work, and can be very difficult at times. 
 
 This pre-coursework is designed to ensure that all students entering the APCS course have the same prior knowledge. The goal is to give all students the opportunity to succeed, no matter what their intro experience was like.
 
@@ -7,7 +7,7 @@ This pre-coursework is designed to ensure that all students entering the APCS co
 
 Remember that you should try to learn this material, not "get it done so you don't lose points". 
 
-This is not to say that all students will have the same experience while completing the pre-coursework. It may be the case that you struggle with it, but it is better to struggle a little over the summer when you are not taking a full courseload. 
+This is not to say that all students will have the same experience while completing the pre-coursework. It may be the case that you struggle with it, but **it is better to struggle a little over the summer when you are not taking a full courseload**. 
 
 # Java textbook that we suggest
 * [CS Awesome](https://runestone.academy/ns/books/published/csawesome/index.html)
